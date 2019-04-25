@@ -1,19 +1,37 @@
 {
-  "posts": [
+  "records": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "req_id": 1,
+      "customer_id": 0,
+      "shop_id": 0,
+      "application_type": 0,
+      "doc_type": 0,
+      "folder_path": 0,
+      "cr_date": "2019-04-24T11:26:31.460+0000",
+      "file_name": 0,
+      "bucket_name": 0
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "req_id": 2,
+      "customer_id": 0,
+      "shop_id": 0,
+      "application_type": 0,
+      "doc_type": 0,
+      "folder_path": 0,
+      "cr_date": "2019-04-24T11:26:31.460+0000",
+      "file_name": 0,
+      "bucket_name": 0
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "req_id": 3,
+      "customer_id": 0,
+      "shop_id": 0,
+      "application_type": 0,
+      "doc_type": 0,
+      "folder_path": 0,
+      "cr_date": "2019-04-24T11:26:31.460+0000",
+      "file_name": 0,
+      "bucket_name": 0
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
