@@ -2,8 +2,19 @@
   "records": [
     {
       "req_id": 1,
-      "customer_id": 0,
-      "shop_id": 0,
+      "customer_id": 1,
+      "shop_id": 1,
+      "application_type": 1,
+      "doc_type": 0,
+      "folder_path": 0,
+      "cr_date": "2019-04-24T11:26:31.460+0000",
+      "file_name": 0,
+      "bucket_name": 0
+    },
+    {
+      "req_id": 1,
+      "customer_id": 1,
+      "shop_id": 1,
       "application_type": 0,
       "doc_type": 0,
       "folder_path": 0,
@@ -14,19 +25,8 @@
     {
       "req_id": 1,
       "customer_id": 1,
-      "shop_id": 0,
-      "application_type": 0,
-      "doc_type": 0,
-      "folder_path": 0,
-      "cr_date": "2019-04-24T11:26:31.460+0000",
-      "file_name": 0,
-      "bucket_name": 0
-    },
-    {
-      "req_id": 3,
-      "customer_id": 0,
-      "shop_id": 0,
-      "application_type": 0,
+      "shop_id": 1,
+      "application_type": 3,
       "doc_type": 0,
       "folder_path": 0,
       "cr_date": "2019-04-24T11:26:31.460+0000",
